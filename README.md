@@ -21,6 +21,9 @@ Repositoria referente a aula de Sistemas Embarcados, que consiste na montagem de
 4. Copie e Cole o conteudo do arquivo Fotorresistor.cpp
 ```
 
+## 🏗️ Montagem:
+>//Exibir uma Imagem do circuito aqui!
+
 ## 🛞 Funcionalidade:
 >//Exibir um GIF aqui!
 
