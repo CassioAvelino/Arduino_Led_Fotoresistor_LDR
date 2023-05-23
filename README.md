@@ -1,3 +1,6 @@
+> *"⁠"Independente do que está sentindo, levante-se, vista-se, e saia para brilhar."* 
+> - *Paulo Coelho*
+
 # Arduino_Led_Fotoresistor_LDR
 Repositoria referente a aula de Sistemas Embarcados, que consiste na montagem de um sistema arduino com um Fotorresistor que ao variar sua faixa de intensidade, o que faz o Led variar sua potência.<br><br>
 💡Explicação: O Fotorresistor é um equipamento que varia de acordo com a luz que recebe. O Led está configurados em uma faixa para quando a luz que o fotoresistor receber for suficente, então o Led deve acender.<br>
