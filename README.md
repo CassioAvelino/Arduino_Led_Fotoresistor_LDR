@@ -1,5 +1,5 @@
-> *"⁠"Independente do que está sentindo, levante-se, vista-se, e saia para brilhar."* 
-> - *Paulo Coelho*
+> *"⁠Até onde conseguimos discenir, o único propósito da existência humana é acender uma luz na escuridão da mera existência"* 
+> - *Carl Jung*
 
 # Arduino_Led_Fotoresistor_LDR
 Repositoria referente a aula de Sistemas Embarcados, que consiste na montagem de um sistema arduino com um Fotorresistor que ao variar sua faixa de intensidade, o que faz o Led variar sua potência.<br><br>
